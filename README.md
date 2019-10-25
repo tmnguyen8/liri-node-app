@@ -1,5 +1,4 @@
 # liri-node-app
-[![Build Status](https://github.com/tmnguyen8/liri-node-app)](https://github.com/tmnguyen8/liri-node-app/actions?workflow=Tests)
 [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 
