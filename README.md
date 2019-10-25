@@ -7,7 +7,8 @@ A node js app name LIRI (somewhat related to SIRI). LIRI is a Language Interprea
 
 ## How is this repo useful?
 This is a great learning tool for node js/javascript beginngers to get acquainted with the following:
-  * Learn about dotenv to store API keys and keeping sensitive information private.[dotenv package](https://www.npmjs.com/package/dotenv)
+  * Learn about dotenv to store API keys and keeping sensitive information private.
+    * [dotenv package](https://www.npmjs.com/package/dotenv)
 
 ## Get Started
 
