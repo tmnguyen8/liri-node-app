@@ -23,9 +23,13 @@ This is a great learning tool for node js/javascript beginners to get acquainted
 
 ## How to get Started
 * clone the repository:
-```javascript
-git clone 
+```nodejs
+git clone git@github.com:tmnguyen8/liri-node-app.git
 ```
+* If you node js and npm installed, you can skip this step.
+* [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+*
 
 ## How does this work?
 
