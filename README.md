@@ -22,6 +22,10 @@ This is a great learning tool for node js/javascript beginners to get acquainted
 
 
 ## How to get Started
+* clone the repository:
+```javascript
+git clone 
+```
 
 ## How does this work?
 
