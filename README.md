@@ -9,12 +9,21 @@ A node js app name LIRI (somewhat related to SIRI). LIRI is a Language Interpret
 This is a great learning tool for node js/javascript beginners to get acquainted with the following concepts:
   * Learn about dotenv to store API keys and keeping sensitive information private.
     * [dotenv package](https://www.npmjs.com/package/dotenv)
-  * Learn about dotenv to store API keys and keeping sensitive information private.
-    * [dotenv package](https://www.npmjs.com/package/dotenv)
+  * Learn about moment to format date and time.
+    * [moment package](https://www.npmjs.com/package/moment)
+  * Learn about Axios to http requests from node.js; it supports the Promise API and transforms request and response data.
+    * [Axios package](https://www.npmjs.com/package/axios)
+  * Learn about OBDb API and the vast movie database that it contains.
+    * [OMDb API](http://www.omdbapi.com/)
+  * Learn about Band in Town API to get access to your favorite artist's information and upcoming events
+    * [Band in Town API](https://app.swaggerhub.com/apis-docs/Bandsintown/PublicAPI/3.0.0)
+  * Learn about Spotify API and the ability to get data about the track, album, link to listen to and many more. 
+    * [Spotify API](https://www.npmjs.com/package/node-spotify-api)
 
-## Get Started
 
-## How this works?
+## How to get Started
+
+## How does this work?
 
 ## Contact
 
