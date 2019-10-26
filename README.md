@@ -34,6 +34,8 @@ Navigate to your directory where this repo lives on your local machine
 ```git
 npm install --save dotenv
 npm install --save moment
+npm install --save axios
+npm install --save spotify
 ```
 
 ## How does this work?
