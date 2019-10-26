@@ -30,7 +30,7 @@ git clone git@github.com:tmnguyen8/liri-node-app.git
 * [Downloading and installing Node.js and npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
 * Install the packages:
-Navigate to your directory where this repo lives on your local machine
+Navigate to your directory where this repo lives on your local machine and install the following packages:
 ```git
 npm install --save dotenv
 npm install --save moment
