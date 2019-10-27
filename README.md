@@ -52,19 +52,19 @@ SPOTIFY_SECRET=your-spotify-secret
 ## How does this work?
 1. Concert-this command will search the Bands in Town Artist Events API for an artist and render the information about each event to the terminal. Run the following command in the terminal. Replace the artist of your choice.
 
- ```node liri.js concert-this <artist/band name here>```
+ ```-node liri.js concert-this <artist/band name here>```
 
 2. Spotify-this-song command will show the information about the song in your terminal/bash window Run the following command in the terminal. Replace the song name of your choice.
 
- ```node liri.js spotify-this-song '<song name here>'```
+ ```-node liri.js spotify-this-song '<song name here>'```
 
 3. Movie-this will output the movie information to your terminal/bash window. If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
- ```node liri.js movie-this '<movie name here>'```
+ ```-node liri.js movie-this '<movie name here>'```
 
 4. Do-what-it-says will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
- ```node liri.js do-what-it-says```
+ ```-node liri.js do-what-it-says```
  
  ```diff
 + this text is highlighted in green
