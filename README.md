@@ -49,10 +49,11 @@ npm install --save spotify
 SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
 ```
-
-
-
 ## How does this work?
+1. Concert-this command will search the Bands in Town Artist Events API for an artist and render the information about each event to the terminal.
+
+run the following command in the terminal. Replace the artist of your choice.
+```node liri.js concert-this <artist/band name here>```
 
 ## Contact
 
