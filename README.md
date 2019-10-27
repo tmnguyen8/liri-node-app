@@ -64,8 +64,8 @@ SPOTIFY_SECRET=your-spotify-secret
 
 4. Do-what-it-says will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
-```diff
- node liri.js do-what-it-says
+```js
+   // code for coloring
 ```
 
 ## Contact
