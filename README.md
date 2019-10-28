@@ -54,6 +54,8 @@ SPOTIFY_SECRET=your-spotify-secret
 
  ```node liri.js concert-this <artist/band name here>```
 
+ ![](./Assets/gif/concert-this.ex.gif)
+
 2. Spotify-this-song command will show the information about the song in your terminal/bash window Run the following command in the terminal. Replace the song name of your choice.
 
  ```node liri.js spotify-this-song '<song name here>'```
