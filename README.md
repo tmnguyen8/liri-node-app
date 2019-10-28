@@ -54,19 +54,22 @@ SPOTIFY_SECRET=your-spotify-secret
 
  ```node liri.js concert-this <artist/band name here>```
 
- ![](./Assets/gif/concert-this.ex.gif)
+ ![](./Assets/gif/concert-this-ex.gif)
 
 2. Spotify-this-song command will show the information about the song in your terminal/bash window Run the following command in the terminal. Replace the song name of your choice.
 
  ```node liri.js spotify-this-song '<song name here>'```
+  ![](./Assets/gif/spotify-this-ex.gif)
 
 3. Movie-this will output the movie information to your terminal/bash window. If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
  ```node liri.js movie-this '<movie name here>'```
+  ![](./Assets/gif/movie-this-ex.gif)
 
 4. Do-what-it-says will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
  ```node liri.js do-what-it-says```
+   ![](./Assets/gif/do-what-it-says-ex.gif)
 
 ## Contact
 

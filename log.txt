@@ -1,17 +1,123 @@
 
 ******************************************
-concert-this kygo
-	 Artist: Kygo
-	 Venue name: Miami Beach Pop Festival
-	 Venue location: Miami Beach, United States
-	 Date of event: 11/09/2019 
-	 Link: https://www.bandsintown.com/e/1015707449?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+spotify-this-song sugar
+	 Artist: BROCKHAMPTON
+	 Song: SUGAR
+	 Link: https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA
+	 Album: GINGER
     -------------------
         
-	 Artist: Kygo
-	 Venue name: Miami Beach Pop Fest
-	 Venue location: Miami Beach, United States
-	 Date of event: 11/09/2019 
-	 Link: https://www.bandsintown.com/e/101364606?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+	 Artist: Maroon 5
+	 Song: Sugar
+	 Link: https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk
+	 Album: V
+    -------------------
+        
+	 Artist: Fall Out Boy
+	 Song: Sugar, We're Goin Down
+	 Link: https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE
+	 Album: From Under The Cork Tree
+    -------------------
+        
+	 Artist: Post Malone
+	 Song: Sugar Wraith
+	 Link: https://open.spotify.com/track/0MrRAUcB8AZiB9ue2VOBYe
+	 Album: beerbongs & bentleys
+    -------------------
+        
+	 Artist: Baby Bash
+	 Song: Suga Suga
+	 Link: https://open.spotify.com/track/6Nq5lE0CeOAAAqN4qhkbZU
+	 Album: Tha Smokin' Nephew
+    -------------------
+        
+	 Artist: Def Leppard
+	 Song: Pour Some Sugar On Me - Remastered 2017
+	 Link: https://open.spotify.com/track/0PdM2a6oIjqepoEfcJo0RO
+	 Album: Hysteria (Super Deluxe)
+    -------------------
+        
+	 Artist: Red Hot Chili Peppers
+	 Song: Under the Bridge
+	 Link: https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0
+	 Album: Blood Sugar Sex Magik (Deluxe Edition)
+    -------------------
+        
+	 Artist: System Of A Down
+	 Song: Sugar
+	 Link: https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG
+	 Album: System Of A Down (Bonus Pack)
+    -------------------
+        
+	 Artist: The Archies
+	 Song: Sugar, Sugar
+	 Link: https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF
+	 Album: The Very Best Of "The Archies"
+    -------------------
+        
+	 Artist: The Rolling Stones
+	 Song: Brown Sugar - Remastered
+	 Link: https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU
+	 Album: Sticky Fingers (Remastered)
+    -------------------
+        
+	 Artist: Robin Schulz
+	 Song: Sugar (feat. Francesco Yates)
+	 Link: https://open.spotify.com/track/5tf1VVWniHgryyumXyJM7w
+	 Album: Sugar
+    -------------------
+        
+	 Artist: Princess Nokia
+	 Song: Sugar Honey Iced Tea (S.H.I.T.)
+	 Link: https://open.spotify.com/track/3HoUNL9JuiS183RkLn8qDh
+	 Album: Sugar Honey Iced Tea (S.H.I.T.)
+    -------------------
+        
+	 Artist: Four Tops
+	 Song: I Can't Help Myself (Sugar Pie, Honey Bunch)
+	 Link: https://open.spotify.com/track/6b6IMqP565TbtFFZg9iFf3
+	 Album: Four Tops Second Album
+    -------------------
+        
+	 Artist: Four Tops
+	 Song: I Can't Help Myself (Sugar Pie, Honey Bunch)
+	 Link: https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV
+	 Album: The Definitive Collection
+    -------------------
+        
+	 Artist: The Archies
+	 Song: Sugar, Sugar
+	 Link: https://open.spotify.com/track/3joeQA8GGsVOf2lfgsGAtq
+	 Album: The Archies: Greatest Hits
+    -------------------
+        
+	 Artist: Steven Universe
+	 Song: Love Like You (End Credits)
+	 Link: https://open.spotify.com/track/2HD2g1syRNaqanstTj8zfJ
+	 Album: Steven Universe, Vol. 1 (Original Soundtrack)
+    -------------------
+        
+	 Artist: Red Hot Chili Peppers
+	 Song: Give It Away
+	 Link: https://open.spotify.com/track/0uppYCG86ajpV2hSR3dJJ0
+	 Album: Blood Sugar Sex Magik (Deluxe Edition)
+    -------------------
+        
+	 Artist: Sugar Ray
+	 Song: Fly
+	 Link: https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4
+	 Album: Floored
+    -------------------
+        
+	 Artist: Sugar Ray
+	 Song: Every Morning
+	 Link: https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5
+	 Album: 14:59
+    -------------------
+        
+	 Artist: The Archies
+	 Song: Sugar, Sugar
+	 Link: https://open.spotify.com/track/4GAI8BxeMgrvhZNEU59UfR
+	 Album: Sugar, Sugar
     -------------------
         
